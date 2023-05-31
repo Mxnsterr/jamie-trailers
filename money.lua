@@ -1,0 +1,1 @@
+exports('GetMoney', function() return p:GetMoney() end)

@@ -1,0 +1,5 @@
+1) Drop jamie-menu, jamie-trailers and PolyZone in [gamemodes]
+
+2) Drop money.lua in driftV -> client -> playerStuff
+
+3) Start jamie-menu, jamie-trailers and PolyZone in your server.cfg
