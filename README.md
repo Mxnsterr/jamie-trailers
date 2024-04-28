@@ -1,4 +1,5 @@
 # Standalone script for JustJamie's Drift server
+> https://www.twitch.tv/justjamie
 
 ## Installation info:
 1) Drop jamie-menu, jamie-trailers and PolyZone in [gamemodes]
